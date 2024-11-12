@@ -1,0 +1,53 @@
+{
+    "name": "YudaMods",
+    "version": "1.0.0",
+    "description": "YudaMods",
+    "main": "main.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "start": "node start.js"
+    },
+    "keywords": [
+        "telegram",
+        "alphabot",
+        "telegraf-api",
+        "telebot",
+        "bot",
+        "telegram-bot"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zeeoneofficial/Telebot.git"
+    },
+    "author": "Rafael",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "chalk": "^4.1.0",
+        "child_process": "^1.0.2",
+        "@whiskeysockets/baileys": "6.6.0",
+        "fs": "0.0.1-security",
+        "my-yts-api": "^1.0.2",
+        "human-readable": "^0.2.1",
+        "node-fetch": "^2.6.1",
+        "socks-proxy-agent": "^8.0.3",
+        "https-proxy-agent": "^7.0.4",
+        "os": "^0.1.2",
+        "path": "^0.12.7",
+        "performance-now": "^2.1.0",
+        "util": "^0.12.4",
+        "g-i-s": "^2.1.6",
+        "jimp": "^0.16.1",
+        "util": "^0.12.4",
+        "moment-timezone": "^0.5.34",
+        "telegraf": "^4.3.0",
+        "yt-search": "^2.10.2",
+        "ytdl-core": "^4.11.5",
+        "hxz-api": "^1.0.1",
+        "nik-parser": "^1.0.1",
+        "js-confuser": "^1.7.3",
+        "ssh2": "^1.15.0"
+    }
+}
