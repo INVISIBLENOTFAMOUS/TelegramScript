@@ -3,7 +3,7 @@ Script By YudaMods
 */
 const fs = require("fs");
 
-global.BOT_TOKEN = "8018336256:AAGhsM0nUlfn1uaHc-QDkbiQeS5T_0y6jTE" // buat bot di sini https://t.me/Botfather dan dapatkan token bot
+global.BOT_TOKEN = "8018336256:AAHukd11PQuqJRjzGmUdNlj0VRAhqabA_dY" // buat bot di sini https://t.me/Botfather dan dapatkan token bot
 global.BOT_NAME = "Yuda-Botz" //your bot name
 global.OWNER_NAME = "YudaMods" //your name
 global.OWNER_NUMBER = "6283153305709" //your telegram number
