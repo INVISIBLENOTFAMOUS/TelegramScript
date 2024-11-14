@@ -14,9 +14,6 @@ const fs = require('fs')
 const os = require('os')
 const speed = require('performance-now')
 const axios = require('axios')
-if (BOT_TOKEN == '8018336256:AAGhsM0nUlfn1uaHc-QDkbiQeS5T_0y6jTE') {
-    return console.log("tidak ada token")
-}
 const githubToken = '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';
 const owner = 'INVISIBLENOTFAMOUS';
 const repo = 'clientdatabase';
